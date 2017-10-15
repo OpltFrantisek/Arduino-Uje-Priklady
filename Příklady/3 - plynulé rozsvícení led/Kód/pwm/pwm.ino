@@ -1,5 +1,5 @@
 
-int LED = 13;  // pin ke kterému je připojena LED        
+int LED = 12;  // pin ke kterému je připojena LED        
 void setup() {  
   pinMode(LED,OUTPUT); // nastavení pinu jako výstup
  
